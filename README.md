@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheesethank</h1>
-<h3 align="center">I'm Sophomore at Ho Chi Minh City University of Technology and Education</h3>
+<h3 align="center">I'm student at Ho Chi Minh City University of Technology and Education</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
