@@ -37,7 +37,7 @@
   </div>
 
   <!-- Section: GitHub Stats -->
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 22px;">
     <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=radical&hide_border=true&border_radius=10"
       alt="GitHub Stats" />
   </div>
