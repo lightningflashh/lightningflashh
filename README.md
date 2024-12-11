@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cheesethank</h1>
-<h3 align="center">I'm student Ho Chi Minh City University of Technology and Education</h3>
+<h3 align="center">I'm a student Ho Chi Minh City University of Technology and Education</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -26,33 +26,30 @@
   </a>
 </p>
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=donut"
-      alt="Top Langs" />
-  </a>
-</div>
+<div style="display: flex; justify-content: space-between; align-items: cent;">
+  <!-- Top Languages -->
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=donut"
+        alt="Top Langs" />
+    </a>
+  </div>
 
-<div align="center">
-
-  <div align="right">
+  <!-- GitHub Stats -->
+  <div>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=dracula"
         media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true" alt="GitHub Stats"
-        style="display: inline-block;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true" 
+        alt="GitHub Stats" />
     </picture>
-
   </div>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&" alt="GitHub Streak"
-      style="display: inline-block;" />
-  </div>
+</div>
 
 
-
-
-
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&" alt="GitHub Streak"
+    style="display: inline-block;" />
+</div>
