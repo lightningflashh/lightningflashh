@@ -26,30 +26,21 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: cent;">
-  <!-- Top Languages -->
-  <div>
+<div align="center" style="margin-top: 20px;">
+
+  <!-- Section: Most Used Languages -->
+  <div style="margin-bottom: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=donut"
-        alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=radical&langs_count=8&hide_border=true&border_radius=10"
+        alt="Top Languages" />
     </a>
   </div>
 
-  <!-- GitHub Stats -->
-  <div>
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true" 
-        alt="GitHub Stats" />
-    </picture>
+  <!-- Section: GitHub Stats -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=radical&hide_border=true&border_radius=10"
+      alt="GitHub Stats" />
   </div>
-</div>
 
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&" alt="GitHub Streak"
-    style="display: inline-block;" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lightningflashh&theme=radical&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
