@@ -53,14 +53,6 @@
 
 ---
 
-### ⛸️ Skating Through Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lightningflashh/lightningflashh/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
----
-
 ### ✉️ Send a Snowball (Connect with me)
 
 <p align="center">
