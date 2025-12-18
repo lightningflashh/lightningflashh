@@ -1,101 +1,89 @@
-<h1 align="center">Hi 👋, I'm Cheesethank</h1>
-<h3 align="center">I'm a student Ho Chi Minh City University of Technology and Education</h3>
+# <p align="center">❄️ Welcome to Cheesethank's Winter Wonderland ❄️</p>
 
-<div align="center" style="margin-top: 20px;">
-
-  <!-- Section: Most Used Languages -->
-  <div style="margin-bottom: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=radical&langs_count=8&hide_border=true&border_radius=10"
-        alt="Top Languages" />
-    </a>
-  </div>
-
-  <!-- Section: GitHub Stats -->
-  <div style="margin-bottom: 22px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=radical&hide_border=true&border_radius=10"
-      alt="GitHub Stats" />
-  </div>
-
-<h3 align="left" class="heading-element" dir="auto">
-  Connect with me: 
-  <a href="https://www.linkedin.com/in/thanhnc0429/" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="max-width: 100%;">
-  </a>
-  <a href="https://www.facebook.com/share/14YQd1geYf/?mibextid=LQQJ4d" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nct/" height="30" width="40" style="max-width: 100%;">
-  </a>
-  <p align="left" dir="auto">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,e6e6e6,ffffff,a2d2ff&height=280&section=header&text=CHEESETHANK%20☃️&fontSize=75&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Winter%20Edition&descAlignY=60&descSize=25" width="100%" />
 </p>
-</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://github.com/lightningflashh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A2D2FF&center=true&vCenter=true&width=500&lines=Let+it+snow+in+the+code!+❄️;Happy+Holidays+Everyone!+🎄;Building+a+Brighter+Future+✨;HCMUTE+Student+🎓" alt="Typing SVG" />
+  </a>
+</p>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465"
-            alt="Java"
-            data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/09cb6dec4c3c015155fc23fc9af839fd138b29652974a709e8c807d566e9b502/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333746353246462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"
-            alt="JavaScript"
-            data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465"><img
-        href="https://camo.githubusercontent.com/87d97e4553a60edf0a89b98ae7e96ff2293c51ca69754f7b605c342ab0400a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/87d97e4553a60edf0a89b98ae7e96ff2293c51ca69754f7b605c342ab0400a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-            alt="Bootstrap"
-            data-canonical-src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/6eff46a364eba690cb91a9f40084d97f96bf95699f3cb7722125dc1dc324fde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73"><img
-            src="https://camo.githubusercontent.com/6eff46a364eba690cb91a9f40084d97f96bf95699f3cb7722125dc1dc324fde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73"
-            alt="JWT"
-            data-canonical-src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"
-            alt="Spring"
-            data-canonical-src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/96edfbc58b60eada4599e396a5fc8dacd315cbb7dfcea55722c81da49fd6e26f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/96edfbc58b60eada4599e396a5fc8dacd315cbb7dfcea55722c81da49fd6e26f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465"
-            alt="MicrosoftSQLServer"
-            data-canonical-src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/38ce4d8be94d27406f2989b56efec7cdc5e2c2d6509600746fede440245c5afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/38ce4d8be94d27406f2989b56efec7cdc5e2c2d6509600746fede440245c5afa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
-            alt="MySQL"
-            data-canonical-src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-            alt="GitHub"
-            data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"
-            alt="Git"
-            data-canonical-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"
-            alt="Postman"
-            data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white"
-            style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer nofollow"
-        href="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img
-            src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"
-            alt="Docker"
-            data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white"
-            style="max-width: 100%;"></a>
-            <a target="_blank" rel="noopener noreferrer nofollow"
-            href="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-            <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-                alt="Node.js" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer nofollow"
-            href="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-            <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-                alt="React" style="max-width: 100%;">
-        </a>
-        </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lightningflashh&label=SNOWY+VISITORS&color=a2d2ff&style=flat-square" alt="Views" />
+</p>
+
+---
+
+### ⛸️ About My Cold-Coded Journey
+
+<p align="center">
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=nord&hide_border=true&card_width=380&border_radius=15&title_color=a2d2ff&text_color=ffffff" />
+</p>
+
+- 🌌 **Current State:** Frozen in focus, building modern solutions.
+- 🏫 **Campus:** Student at **Ho Chi Minh City University of Technology and Education**.
+- ❄️ **Cool Tech:** Java, Spring Boot, React, and Docker.
+- 🧤 **Mission:** Turning complex problems into elegant, simple code.
+- 🕯️ **Vibe:** "Keep it clean, keep it bright."
+
+<br clear="both">
+
+---
+
+### 🛠️ Frozen Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,nextjs,express,mongodb,mysql,mssql,docker,git,postman,figma,vscode,tailwind,redux&perline=9" />
+</p>
+
+---
+
+### 📊 Seasonal Stats (Silver Edition)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=nord&hide_border=true&border_radius=15&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&theme=nord&hide_border=true&border_radius=15&stroke=a2d2ff&fire=a2d2ff&ring=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lightningflashh&theme=nord&area=true&hide_border=true&border_radius=15&color=a2d2ff" width="100%" />
+</p>
+
+---
+
+### ⛸️ Skating Through Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lightningflashh/lightningflashh/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+### ✉️ Send a Snowball (Connect with me)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thanhnc0429/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/14YQd1geYf/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:thanhnc0429@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Winter-Vibes-e6e6e6?style=for-the-badge&logo=icloud&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Happy-Holidays-a2d2ff?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZidjZ6dnN5bnR3Y256ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN3f2T8CkdW30EUKuR/giphy.gif" width="80" />
+</p>
+
+<p align="center">
+  <i>"May your heart be warm, even if your code is cold-bloodedly efficient!"</i>
+</p>
