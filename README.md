@@ -1,81 +1,73 @@
-# <p align="center">❄️ Welcome to Cheesethank's Winter Wonderland ❄️</p>
+# ☀️ Welcome to Cheesethank's Summer Portfolio ☀️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,e6e6e6,ffffff,a2d2ff&height=280&section=header&text=CHEESETHANK%20☃️&fontSize=75&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Winter%20Edition&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff9a00,ffcc33,ffeb3b,8bc34a&height=280&section=header&text=CHEESETHANK%20🌻&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Full-stack%20Software%20Engineer%20%7C%20Open%20to%20Work&descAlignY=60&descSize=25" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/lightningflashh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A2D2FF&center=true&vCenter=true&width=500&lines=Let+it+snow+in+the+code!+❄️;Happy+Holidays+Everyone!+🎄;Building+a+Brighter+Future+✨;HCMUTE+Student+🎓" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF9A00&center=true&vCenter=true&width=500&lines=Building+Scalable+Solutions;Full-stack+Web+Developer;Ready+for+New+Challenges+🚀;HCMUTE+Student+🎓" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lightningflashh&label=SNOWY+VISITORS&color=a2d2ff&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=lightningflashh&label=PROFILE+VISITORS&color=orange&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-### ⛸️ About My Cold-Coded Journey
+### 🚀 About Me & Career Objectives
 
 <p align="center">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=nord&hide_border=true&card_width=380&border_radius=15&title_color=a2d2ff&text_color=ffffff" />
+  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=flat&hide_border=true&card_width=380&border_radius=15&title_color=ff9a00&text_color=333333" />
 </p>
 
-- 🌌 **Current State:** Frozen in focus, building modern solutions.
-- 🏫 **Campus:** Student at **Ho Chi Minh City University of Technology and Education**.
-- ❄️ **Cool Tech:** Java, Spring Boot, React, and Docker.
-- 🧤 **Mission:** Turning complex problems into elegant, simple code.
-- 🕯️ **Vibe:** "Keep it clean, keep it bright."
+- ⚡ **Current Status:** **Actively seeking New Opportunities** (Internship / Junior Full-stack Developer).
+- 🏫 **Education:** Software Engineering student at **Ho Chi Minh City University of Technology and Education**.
+- 🛠️ **Core Expertise:** Java (Spring Boot), JavaScript (React, Next.js), and Cloud Deployment (Docker).
+- 💡 **Focus:** Crafting high-performance web applications with clean architecture and seamless UI/UX.
+- 🎯 **Goal:** To deliver impactful solutions and grow within a professional engineering team.
 
 <br clear="both">
 
 ---
 
-### 🛠️ Frozen Tech Stack
+### 🛠️ Professional Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,nextjs,express,mongodb,mysql,mssql,docker,git,postman,figma,vscode,tailwind,redux&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgresql,docker,git,postman,figma,vscode&perline=9" />
 </p>
 
 ---
 
-### 📊 Seasonal Stats (Silver Edition)
+### 📊 Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=nord&hide_border=true&border_radius=15&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&theme=nord&hide_border=true&border_radius=15&stroke=a2d2ff&fire=a2d2ff&ring=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lightningflashh&theme=nord&area=true&hide_border=true&border_radius=15&color=a2d2ff" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=flat&hide_border=true&border_radius=15&title_color=ff9a00&icon_color=ff9a00&text_color=333333" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&theme=flat&hide_border=true&border_radius=15&stroke=ff9a00&fire=ff9a00&ring=333333" width="48%" />
 </p>
 
 ---
 
-### ✉️ Send a Snowball (Connect with me)
+### ✉️ Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thanhnc0429/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:thanhnc0429@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.facebook.com/share/14YQd1geYf/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:thanhnc0429@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Winter-Vibes-e6e6e6?style=for-the-badge&logo=icloud&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Happy-Holidays-a2d2ff?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Summer_Edition-orange?style=for-the-badge&logo=sunny&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZidjZ6dnN5bnR3Y256ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZTV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vN3f2T8CkdW30EUKuR/giphy.gif" width="80" />
-</p>
-
-<p align="center">
-  <i>"May your heart be warm, even if your code is cold-bloodedly efficient!"</i>
+  <i>"Code is like the sun – it should brighten up the world!"</i>
 </p>
