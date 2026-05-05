@@ -18,10 +18,6 @@
 
 ### 🚀 About Me & Career Objectives
 
-<p align="center">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&layout=compact&theme=flat&hide_border=true&card_width=380&border_radius=15&title_color=ff9a00&text_color=333333" />
-</p>
-
 - ⚡ **Current Status:** **Actively seeking New Opportunities** (Internship / Junior Full-stack Developer).
 - 🏫 **Education:** Software Engineering student at **Ho Chi Minh City University of Technology and Education**.
 - 🛠️ **Core Expertise:** Java (Spring Boot), JavaScript (React, Next.js), and Cloud Deployment (Docker).
@@ -43,7 +39,6 @@
 ### 📊 Performance & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightningflashh&show_icons=true&theme=flat&hide_border=true&border_radius=15&title_color=ff9a00&icon_color=ff9a00&text_color=333333" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&theme=flat&hide_border=true&border_radius=15&stroke=ff9a00&fire=ff9a00&ring=333333" width="48%" />
 </p>
 
