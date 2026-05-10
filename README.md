@@ -18,7 +18,7 @@
 
 ### 🚀 About Me & Career Objectives
 
-- ⚡ **Current Status:** **Actively seeking New Opportunities** (Internship / Junior Full-stack Developer).
+- ⚡ **Current Status:** **Actively seeking New Opportunities** (Fresher / Junior Full-stack Developer).
 - 🏫 **Education:** Software Engineering student at **Ho Chi Minh City University of Technology and Education**.
 - 🛠️ **Core Expertise:** Java (Spring Boot), JavaScript (React, Next.js), and Cloud Deployment (Docker).
 - 💡 **Focus:** Crafting high-performance web applications with clean architecture and seamless UI/UX.
