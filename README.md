@@ -39,22 +39,22 @@
 
 <p align="center">
   <img 
-    width="49%" 
+    width="32%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=lightningflashh&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=C084FC"
   />
-  
+
   <img 
-    width="49%" 
+    width="32%" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=lightningflashh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=C084FC&icon_color=8B5CF6"
   />
-</p>
 
-<p align="center">
   <img 
-    width="40%" 
+    width="32%" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=lightningflashh&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=EC4899&icon_color=8B5CF6&hide=Jupyter%20Notebook,Roff"
   />
 </p>
+
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
 
 ---
 
