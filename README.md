@@ -5,6 +5,13 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+</p>
+
 ---
 
 <h3 align="center">Connect with me</h3>
