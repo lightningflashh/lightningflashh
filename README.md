@@ -73,7 +73,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To_Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-EC4899?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Development-EC4899?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ---
